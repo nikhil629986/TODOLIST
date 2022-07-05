@@ -1,5 +1,5 @@
 # TODOLIST
-This Project is made using HTML,CSS,EXPRESS JS,NODE JS,JAVASCRIPT,EJS,
+This Project is made using HTML,CSS,EXPRESS JS,NODE JS,JAVASCRIPT,EJS AND THE DATE AUTOMATICALLY GET UPDATED EVERYDAY
 ![image](https://user-images.githubusercontent.com/77457476/177398328-fc42aa39-8f94-4a54-bb66-ecd76c3b6fa4.png)
 
 
